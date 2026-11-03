@@ -60,6 +60,10 @@ The project includes data preparation, KPI calculations, pivot table analysis, a
 
 GitHub: [@codersingh74](https://github.com/codersingh74)
 
+
+## 📊 Business_Insights
+
+![Dashboard Part 1](Business_Insights.png.png)
 ---
 
 *This project was created for practical learning and business analytics portfolio development.*
