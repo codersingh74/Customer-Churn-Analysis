@@ -63,3 +63,10 @@ GitHub: [@codersingh74](https://github.com/codersingh74)
 ---
 
 *This project was created for practical learning and business analytics portfolio development.*
+## 📊 Dashboard Preview
+
+### Dashboard – Part 1
+![Dashboard Part 1](Dashboard_Part1.png)
+
+### Dashboard – Part 2
+![Dashboard Part 2](Dashboard_Part2.png)
