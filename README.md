@@ -66,7 +66,7 @@ GitHub: [@codersingh74](https://github.com/codersingh74)
 ## 📊 Dashboard Preview
 
 ### Dashboard – Part 1
-![Dashboard Part 1](Dashboard_Part1.png)
+![Dashboard Part 1](Dashboard_Part1.png.png)
 
 ### Dashboard – Part 2
-![Dashboard Part 2](Dashboard_Part2.png)
+![Dashboard Part 2](Dashboard_Part2.png.png)
